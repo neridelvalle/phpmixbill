@@ -1,0 +1,249 @@
+<?php
+/*
+-----------------------------------
+Language Name: English
+Contributor: Ismail Marzuqi
+Web: www.phpmixbill.com
+Email: iesien22@yahoo.com
+
+2017
+Contributor: Ibnu Maksum (@ibnux)
+
+------------------------------------
+*/
+
+$_L['Login'] = 'Ingresar';
+$_L['Register'] = 'Registrarse';
+$_L['Announcement'] = 'Aviso';
+$_L['Registration_Info'] = 'Informacion de registro';
+$_L['Register_Voucher_Failed'] = 'No se encontro la tarjeta, compre la tarjeta antes de registrarse';
+$_L['Register_Success'] = 'Registro exitoso! Puede iniciar sesion ahora';
+$_L['Sign_In_Member'] = 'Ingresar como cliente';
+$_L['Register_Member'] = 'Registrarse como cliente';
+$_L['Sign_In_Admin'] = 'Panel Administrador';
+$_L['Logo'] = 'neri.info';
+$_L['Username'] = 'Usuario';
+$_L['Password'] = 'PIN';
+$_L['PasswordsNotMatch'] = 'PIN no coincide';
+$_L['account_already_exist'] = 'La cuenta ya existe';
+$_L['Manage'] = 'Gestionar';
+$_L['Submit'] = 'Enviar';
+$_L['Save'] = 'Guardar Cambios';
+$_L['Cancel'] = 'Cancelar';
+$_L['Edit'] = 'Editar';
+$_L['Delete'] = 'Borrar';
+$_L['Welcome'] = 'Bienvenido';
+$_L['Created_Successfully'] = 'Datos creados con exito';
+$_L['Updated_Successfully'] = 'Datos actualizado con exito';
+$_L['Delete_Successfully'] = 'Datos borrado con exito';
+
+$_L['Static_Pages'] = "Paginas estaticas";
+$_L['Failed_Save_Page'] = "Error al guardar la pagina, asegurese de que puedo escribir en las paginas de la carpeta, <i>chmod 664 pages/*.html<i>";
+$_L['Success_Save_Page'] = "Pagina guardado sastifactoriamente";
+$_L['Info_Page'] = "Algunas veces necesita actualizar 3 veces hasta que el contenido cambie.";
+
+$_L['Dashboard'] = 'Tablero';
+$_L['Search_Contact'] = 'Buscar cliente...';
+$_L['My_Account'] = 'Mi cuenta';
+$_L['My_Profile'] = 'Mi perfil';
+$_L['Settings'] = 'Configuraciones';
+$_L['Edit_Profile'] = 'Editar perfil';
+$_L['Change_Password'] = 'Cambiar PIN';
+$_L['Logout'] = 'Salir';
+
+$_L['Services'] = 'Servicios';
+$_L['Bandwidth_Plans'] = 'Planes de ancho de banda';
+$_L['BW_Name'] = 'Nombre de ancho de banda';
+$_L['New_Bandwidth'] = 'Nuevo ancho de banda';
+$_L['Edit_Bandwidth'] = 'Editar ancho de banda';
+$_L['Add_Bandwidth'] = 'Agregar nuevo ancho de banda';
+$_L['Rate_Download'] = 'Velocidad Descarga';
+$_L['Rate_Upload'] = 'Velocidad Subida';
+$_L['BW_already_exist'] = 'Ancho de banda ya existe';
+$_L['Hotspot_Plans'] = 'Planes de Hotspot';
+$_L['PPPOE_Plans'] = 'Planes PPPOE';
+$_L['Plan_Name'] = 'Nombre del plan';
+$_L['New_Plan'] = 'Nuevo plan de servicio';
+$_L['Add_Plan'] = 'Anadir plan de servicio';
+$_L['Edit_Plan'] = 'Editar plan de servicio';
+$_L['Plan_already_exist'] = 'El plan ya existe';
+$_L['Plan_Type'] = 'Tipo de plan';
+$_L['Plan_Price'] = 'Precio';
+$_L['Limit_Type'] = 'Tipo de limite';
+$_L['Unlimited'] = 'Ilimitado';
+$_L['Limited'] = 'Limite';
+$_L['Time_Limit'] = 'Tiempo';
+$_L['Data_Limit'] = 'Datos';
+$_L['Both_Limit'] = 'Ambos';
+$_L['Plan_Validity'] = 'Validez del plan';
+$_L['Select_BW'] = 'Seleccionar ancho de banda';
+$_L['Shared_Users'] = 'Usuarios compartidos';
+
+$_L['user_type_help'] = 'Elegir el tipo de usuario de ventas para deshabilitar el acceso a Configuración';
+$_L['Current_Password'] = 'PIN Actual';
+$_L['New_Password'] = 'Nuevo PIN';
+$_L['Administrator'] = 'Administrador';
+$_L['Sales'] = 'Vendedor';
+$_L['Member'] = 'Cliente';
+$_L['Confirm_New_Password'] = 'Confirmar nuevo PIN';
+$_L['Confirm_Password'] = 'Confirmar PIN';
+$_L['Full_Name'] = 'Nombre Completo';
+$_L['User_Type'] = 'Tipo de usuario';
+$_L['Address'] = 'Direccion';
+$_L['Created_On'] = 'Creado el';
+$_L['Expires_On'] = 'Expira el';
+$_L['Phone_Number'] = 'Nro Telefono';
+$_L['User_Delete_Ok'] = 'Usuario eliminado con exito';
+$_L['Full_Administrator'] = 'Full Administrador';
+$_L['password_change_help'] = 'Mantener en blanco para no cambiar el PIN';
+$_L['currency_help'] = 'Mantengalo en blanco si no desea mostrar el codigo de moneda';
+$_L['Theme_Style'] = 'Estilo del tema';
+$_L['Theme_Color'] = 'Color del tema';
+$_L['Default_Language'] = 'Idioma predeterminado';
+
+$_L['Network'] = 'Red';
+$_L['Routers'] = 'Routers';
+$_L['Pool'] = 'IP Pool';
+$_L['New_Router'] = 'Nuevo Router';
+$_L['Add_Router'] = 'Anadir Router';
+$_L['Edit_Router'] = 'Editar Router';
+$_L['Router_Name'] = 'Nombre Router';
+$_L['IP_Address'] = 'Direccion IP';
+$_L['Router_Secret'] = 'PIN Router';
+$_L['Description'] = 'Descripcion';
+$_L['Router_already_exist'] = 'IP del Router ya existe';
+$_L['Pool_Name'] = 'Nombre Pool';
+$_L['Range_IP'] = 'Rango IP';
+$_L['New_Pool'] = 'Nuevo Pool';
+$_L['Add_Pool'] = 'Anadir Pool';
+$_L['Edit_Pool'] = 'Editar Pool';
+$_L['Pool_already_exist'] = 'Nombre Pool ya existe';
+
+$_L['Prepaid'] = 'Prepago';
+$_L['Prepaid_User'] = 'Cliente Prepago';
+$_L['Prepaid_Vouchers'] = 'Tarjeta Prepago';
+$_L['Refill_Account'] = 'Recargar una cuenta';
+$_L['Recharge_Account'] = 'Recargar cuenta';
+$_L['Select_Account'] = 'Seleccionar cuenta';
+$_L['Service_Plan'] = 'Plan Servicio';
+$_L['Recharge'] = 'Recargar';
+$_L['Method'] = 'Por';
+$_L['account_created_successfully'] = 'Cuenta creado sastifactoriamente';
+
+$_L['Database_Status'] = 'Estado Base de datos';
+$_L['Total_Database_Size'] = 'Total tamano base de datos';
+$_L['Download_Database_Backup'] = 'Descargar copia Base de Datos';
+$_L['Table_Name'] = 'Nombre Tabla';
+$_L['Rows'] = 'Fila';
+$_L['Size'] = 'Tamano';
+
+$_L['Customers'] = 'Cliente';
+$_L['Add_Contact'] = 'Nuevo cliente';
+$_L['Edit_Contact'] = 'Editar cliente';
+$_L['List_Contact'] = 'Lista cliente';
+$_L['Manage_Accounts'] = 'Gestionar clientes';
+
+$_L['Reports'] = 'Reporte';
+$_L['Daily_Report'] = 'Informe diario';
+$_L['Period_Reports'] = 'Informe por periodo';
+$_L['All_Transactions'] = 'Todas las transacciones';
+$_L['Total_Income'] = 'Ingresos totales';
+$_L['All_Transactions_at_Date'] = 'Todas las transacciones en la fecha';
+$_L['Total_Income'] = 'Ingreso totales';
+$_L['Export_for_Print'] = 'Exportar para Imprimir';
+$_L['Print'] = 'Imprimir';
+$_L['Export_to_PDF'] = 'Exportar a PDF';
+$_L['Click_Here_to_Print'] = 'Haga clic aqui para imprimir';
+$_L['You_can_use_html_tag'] = 'Puedes usar etiqueta html';
+$_L['Date_Format'] = 'Formato fecha';
+$_L['Income_Today'] = 'Ingreso del dia';
+$_L['Income_This_Month'] = 'Ingreso del mes';
+$_L['Users_Active'] = 'Usuario Activo';
+$_L['Total_Users'] = 'Total usuario';
+$_L['Users'] = 'Usuarios';
+$_L['Edit_User'] = 'Editar usuario';
+$_L['Last_Login'] = 'Ultimo acceso';
+$_L['Administrator_Users'] = 'Usuario administrador';
+$_L['Manage_Administrator'] = 'Gestionar administrador';
+$_L['Add_New_Administrator'] = 'Nuevo administrador';
+$_L['Localisation'] = 'Localizacion';
+$_L['Backup_Restore'] = 'Backup/Restore';
+
+$_L['General_Settings'] = 'Opciones Generales';
+$_L['Date'] = 'Fecha';
+$_L['Login_Successful'] = 'Inicio de sesion correcto';
+$_L['Failed_Login'] = 'Inicio de sesion fallido';
+$_L['Settings_Saved_Successfully'] = 'Opciones guardado con exito';
+$_L['User_Updated_Successfully'] = 'Usuario actualizado con exito';
+$_L['User_Expired_Today'] = 'Usuario caducado, en el dia';
+$_L['Activity_Log'] = 'Registro de actividades';
+$_L['View_Reports'] = 'Ver informes';
+$_L['View_All'] = 'Ver todo';
+$_L['Number_of_Vouchers'] = 'Cantidad de Tarjeta';
+$_L['Length_Code'] = 'Longitud de codigo';
+$_L['Code_Voucher'] = 'Codigo de Tarjeta';
+$_L['Voucher'] = 'Tarjeta';
+$_L['Voucher_Hotspot'] = 'Hotspot a Tarjeta';
+$_L['Status_Voucher'] = 'Estado de la tarjeta';
+$_L['Add_Voucher'] = 'Nueva Tarjeta';
+$_L['Voucher_Successfully'] = 'Tarjeta creado con exitos';
+$_L['Generate'] = 'Generar';
+$_L['Print_Info'] = 'Imprimir uno al lado del otro, sera facil de cortar';
+
+$_L['From_Date'] = 'Desde la fecha';
+$_L['To_Date'] = 'Hasta la fecha';
+$_L['New_Service'] = 'Nuevo servicio';
+$_L['Type'] = 'Tipo';
+$_L['Finish'] = 'Finalizar';
+$_L['App_Name'] = 'Nombre de la aplicación / Nombre de la compañía';
+$_L['App_Name_Help_Text'] = 'Este nombre se mostrará en el título';
+$_L['Next'] = 'Nuevo';
+$_L['Last'] = 'Anterior';
+$_L['Timezone'] = 'Zona horaria';
+$_L['Decimal_Point'] = 'Punto decimal';
+$_L['Thousands_Separator'] = 'Separador de miles';
+$_L['Currency_Code'] = 'Codigo de moneda';
+
+$_L['Order_Voucher'] = 'Tarjeta por pedido';
+$_L['Voucher_Activation'] = 'Activar Tarjeta';
+$_L['List_Activated_Voucher'] = 'Lista de Tarjeta activados';
+$_L['Enter_Voucher_Code'] = 'Ingrese el codigo de la Tarjeta';
+$_L['Private_Message'] = 'Mensaje privado';
+$_L['Inbox'] = 'Bandeja de entrada';
+$_L['Outbox'] = 'Bandeja de salida';
+$_L['Compose'] = 'Componer';
+$_L['Send_to'] = 'Enviar a';
+$_L['Title'] = 'Titulo';
+$_L['Message'] = 'Mensaje';
+$_L['Account_Information'] = 'Informacion de su cuenta';
+$_L['Welcome_Text_User'] = 'Bienvenido a la seccion del cliente, en esta pagina puede:';
+$_L['Welcome_Text_Admin'] = '<b>PHPMixBill</b> es un Hotspot de facturacion y PPPOE para Mikrotik que usa API de PHP y Mikrotik para comunicarse con el enrutador. Si obtiene mas ganancias con esta aplicacion, por favor, haganos una donacion. <br>Mire el proyecto <a href="https://github.com/ibnux/phpmixbill" target="_blank">aqui</a>';
+
+//update 
+$_L['Invalid_Username_or_Password'] = 'Usuario o PIN invalido';
+$_L['Do_Not_Access'] = 'Usted no tiene permiso para acceder a esta pagina';
+$_L['Incorrect_Current_Password'] = 'PIN actual incorrecto';
+$_L['Password_Changed_Successfully'] = 'El PIN se cambio con exito, por favor inicie sesión de nuevo';
+$_L['All_field_is_required'] = 'Se requiere todo el campo';
+$_L['Voucher_Not_Valid'] = 'Tarjeta no valido, o ya fue usado';
+$_L['Activation_Vouchers_Successfully'] = 'Tarjeta activado con exito';
+$_L['Data_Not_Found'] = 'Datos no encontrados';
+$_L['Search_by_Username'] = 'Buscar por nombre de usuario';
+$_L['Search_by_Name'] = 'Buscar por nombre';
+$_L['Search_by_Code'] = 'Buscar por codigo de Tarjeta';
+$_L['Search'] = 'Buscar';
+$_L['Select_Customer'] = 'Seleccionar cliente';
+$_L['Select_Routers'] = 'Seleccionar Routers';
+$_L['Select_Plans'] = 'Seleccionar Planes';
+$_L['Select_Pool'] = 'Seleccionar Pool';
+$_L['Hrs'] = 'Horas';
+$_L['Mins'] = 'Minutos';
+$_L['Days'] = 'Dias';
+$_L['Months'] = 'Meses';
+
+$_L['Add_Language'] = 'Nuevo idioma';
+$_L['Name_Lang'] = 'Nombre del idioma';
+$_L['Folder_Lang'] = 'Nombre de la carpeta';
+$_L['Translator'] = 'Traductor';
+$_L['Lang_already_exist'] = 'El idioma actual ya existe';
+
